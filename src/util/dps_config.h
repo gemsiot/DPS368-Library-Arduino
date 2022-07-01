@@ -1,7 +1,7 @@
 
 #ifndef DPS_CONSTS_H_
 #define DPS_CONSTS_H_
-#include "util/DpsRegister.h"
+#include "DpsRegister.h"
 
 ///////////     DPS310    ///////////
 #define DPS310__PROD_ID 0x00
